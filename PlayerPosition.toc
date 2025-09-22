@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: Player Position
-## Notes: Displays player coordinates and zone information
+## Title: AutoQuestRun
+## Notes: Helps navigate to the closest quest objective
 ## Author: YourName
 ## Version: 1.0
 
-PlayerPosition.lua
+AutoQuestRun.lua
